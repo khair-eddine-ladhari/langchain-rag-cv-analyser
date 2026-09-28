@@ -1,6 +1,6 @@
 # LangChain RAG CV Analyser
 
-A small practice project that uses Retrieval-Augmented Generation (RAG) to analyse a CV. The CV text is split and stored in a Pinecone vector index, relevant parts are retrieved with semantic search, and a Groq-hosted LLM generates answers grounded in that retrieved context.
+A small  practice project that uses Retrieval-Augmented Generation (RAG) to analyse a CV. The CV text is split and stored in a Pinecone vector index, relevant parts are retrieved with semantic search, and a Groq-hosted LLM generates answers grounded in that retrieved context.
 
 > **Status:** learning project. Built to practise RAG with LangChain, so the code is simple and not production-ready.
 
